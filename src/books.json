@@ -1,0 +1,894 @@
+{
+    "library": [
+        {
+            "book": {
+                "title": "El Señor de los Anillos",
+                "pages": 1200,
+                "genre": "Fantasía",
+                "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg",
+                "synopsis": "Una aventura épica en un mundo de fantasía llamado la Tierra Media.",
+                "year": 1954,
+                "ISBN": "978-0618640157",
+                "author": {
+                    "name": "J.R.R. Tolkien",
+                    "otherBooks": [
+                        "El Hobbit",
+                        "El Silmarillion"
+                    ]
+                }
+            }
+        },
+        {
+          "book": {
+              "title": "Juego de Tronos",
+              "pages": 694,
+              "genre": "Fantasía",
+              "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1273763400i/8189620.jpg",
+              "synopsis": "En un reino donde las estaciones duran años, una batalla épica por el trono se desarrolla.",
+              "year": 1996,
+              "ISBN": "978-0553103540",
+              "author": {
+                  "name": "George R. R. Martin",
+                  "otherBooks": [
+                      "Choque de Reyes",
+                      "Tormenta de Espadas",
+                      "Festín de Cuervos"
+                  ]
+              }
+          }
+      },
+      {
+        "book": {
+            "title": "Harry Potter y la piedra filosofal",
+            "pages": 223,
+            "genre": "Fantasía",
+            "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550337333i/15868.jpg",
+            "synopsis": "Un niño descubre que es un mago y comienza una aventura en una escuela de magia.",
+            "year": 1997,
+            "ISBN": "978-0747532699",
+            "author": {
+                "name": "J.K. Rowling",
+                "otherBooks": [
+                    "Harry Potter y la cámara secreta",
+                    "Harry Potter y el prisionero de Azkaban",
+                    "Harry Potter y el cáliz de fuego"
+                ]
+            }
+        }
+    },
+    {
+      "book": {
+          "title": "1984",
+          "pages": 328,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/81StSOpmkjL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Una inquietante visión de un futuro distópico y totalitario.",
+          "year": 1949,
+          "ISBN": "978-0451524935",
+          "author": {
+              "name": "George Orwell",
+              "otherBooks": [
+                  "Rebelión en la granja"
+              ]
+          }
+      }
+  },
+    {
+      "book": {
+          "title": "Apocalipsis Zombie",
+          "pages": 444,
+          "genre": "Ciencia ficción",
+          "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422626176i/24762432.jpg",
+          "synopsis": "Un gallego se queda en casa en pleno apocalipsis zombie y acaba casi salvando el mundo",
+          "year": 2001,
+          "ISBN": "978-4444532611",
+          "author": {
+              "name": "Manel Loreiro",
+              "otherBooks": []
+          }
+      }
+  },
+  {
+    "book": {
+        "title": "Dune",
+        "pages": 412,
+        "genre": "Ciencia ficción",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+        "synopsis": "En el inhóspito planeta desértico de Arrakis, una gran intriga política y familiar se desarrolla.",
+        "year": 1965,
+        "ISBN": "978-0441172719",
+        "author": {
+            "name": "Frank Herbert",
+            "otherBooks": [
+                "El mesías de Dune",
+                "Hijos de Dune"
+            ]
+        }
+    }
+  },
+  {
+    "book": {
+        "title": "La Guía del Autoestopista Galáctico",
+        "pages": 216,
+        "genre": "Ciencia ficción",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653311117i/6691227.jpg",
+        "synopsis": "Un viaje absurdo y cómico por el espacio, con toallas.",
+        "year": 1979,
+        "ISBN": "978-0345391803",
+        "author": {
+            "name": "Douglas Adams",
+            "otherBooks": [
+                "El restaurante del fin del mundo",
+                "La vida, el universo y todo lo demás"
+            ]
+        }
+    }
+  },
+  {
+    "book": {
+        "title": "Neuromante",
+        "pages": 271,
+        "genre": "Ciencia ficción",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
+        "synopsis": "Una visión profética de la ciber-realidad y la inteligencia artificial.",
+        "year": 1984,
+        "ISBN": "978-0441569595",
+        "author": {
+            "name": "William Gibson",
+            "otherBooks": [
+                "Conde Cero",
+                "Mona Lisa Acelerada"
+            ]
+        }
+    }
+  },
+  {
+    "book": {
+        "title": "Fahrenheit 451",
+        "pages": 249,
+        "genre": "Ciencia ficción",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
+        "synopsis": "Una sociedad futura donde los libros están prohibidos y 'bomberos' queman cualquier libro que encuentren.",
+        "year": 1953,
+        "ISBN": "978-1451673319",
+        "author": {
+            "name": "Ray Bradbury",
+            "otherBooks": [
+                "Crónicas marcianas",
+                "El hombre ilustrado"
+            ]
+        }
+    }
+  },
+    {
+      "book": {
+          "title": "El resplandor",
+          "pages": 688,
+          "genre": "Terror",
+          "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641398308i/60038757.jpg",
+          "synopsis": "Una familia se muda a un hotel aislado para el invierno donde una presencia siniestra influye en el padre hacia la violencia.",
+          "year": 1977,
+          "ISBN": "978-0307743657",
+          "author": {
+              "name": "Stephen King",
+              "otherBooks": [
+                  "Carrie",
+                  "It"
+              ]
+          }
+      }
+  },
+  {
+      "book": {
+          "title": "Drácula",
+          "pages": 418,
+          "genre": "Terror",
+          "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+          "synopsis": "La historia del infame conde Drácula y su intento de mudarse de Transilvania a Inglaterra.",
+          "year": 1897,
+          "ISBN": "978-0486411095",
+          "author": {
+              "name": "Bram Stoker",
+              "otherBooks": [
+                  "La joya de las siete estrellas",
+                  "La madriguera del gusano blanco"
+              ]
+          }
+      }
+  },
+  {
+      "book": {
+          "title": "Frankenstein",
+          "pages": 280,
+          "genre": "Terror",
+          "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669159060i/63631742.jpg",
+          "synopsis": "Un científico obsesionado crea una criatura viva a partir de partes de cuerpos robadas, con consecuencias desastrosas.",
+          "year": 1818,
+          "ISBN": "978-0486282114",
+          "author": {
+              "name": "Mary Shelley",
+              "otherBooks": [
+                  "El último hombre",
+                  "Valperga"
+              ]
+          }
+      }
+  },
+  {
+    "book": {
+        "title": "La llamada de Cthulhu",
+        "pages": 43,
+        "genre": "Terror",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485924654i/34094154.jpg",
+        "synopsis": "La historia de un monstruo ancestral que amenaza con revivir y dominar el mundo.",
+        "year": 1928,
+        "ISBN": "978-1542461690",
+        "author": {
+            "name": "H.P. Lovecraft",
+            "otherBooks": [
+                "El horror de Dunwich",
+                "En las montañas de la locura"
+            ]
+        }
+      }
+    },
+    {
+        "book": {
+            "title": "Así habló Zaratustra",
+            "pages": 560,
+            "genre": "Filosofía",
+            "cover": "https://images.cdn3.buscalibre.com/fit-in/360x360/8d/d2/8dd2128f606fec7df854aeed6adcd77d.jpg",
+            "synopsis": "Las reflexiones de Zaratustra sobre la voluntad de poder y el sentido de la vida transforman a quienes lo escuchan, desafiando convenciones y fomentando la autorrealización.",
+            "year": 1883,
+            "ISBN": "978-1542461390",
+            "author": {
+                "name": "Friedrich Nietzsche",
+                "otherBooks": [
+                    "Más allá del bien y del mal",
+                    "El Anticristo"
+                ]
+            }
+        }
+    },
+    {
+        "book": {
+            "title": "Corán",
+            "pages": 640,
+            "genre": "Religion",
+            "cover": "https://m.media-amazon.com/images/I/81vVj3nIFtL._AC_UF1000,1000_QL80_.jpg",
+            "synopsis": "El Corán, texto sagrado del islam, proporciona orientación espiritual y directrices para la vida diaria, promoviendo la devoción, la justicia y la compasión a través de sus versículos revelados al profeta Mahoma.",
+            "year": 600,
+            "ISBN": "978-1442491390",
+            "author": {
+                "name": "N/A",
+                "otherBooks": []
+            }
+        }
+    },
+    {
+        "book": {
+            "title": "Steve Jobs",
+            "pages": 656,
+            "genre": "Biografía",
+            "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/a6/3e/a63e18012fd18538c858d7d217fc4d12.jpg",
+            "synopsis": "La vida y legado del cofundador de Apple, Steve Jobs, se revelan en esta biografía cautivadora, explorando su genialidad creativa, liderazgo revolucionario y su influencia en la tecnología moderna.",
+            "year": 2011,
+            "ISBN": "978-1451648539",
+            "author": {
+                "name": "Walter Isaacson",
+                "otherBooks": [
+                    "Leonardo da Vinci: La biografía",
+                    "Elon Musk"
+                ]
+            }
+        }
+    },
+    {
+        "book": {
+            "title": "KIZUMONOGATARI: Wound Tale",
+            "pages": 354,
+            "genre": "Novela ligera y manga",
+            "cover": "https://m.media-amazon.com/images/I/81NSmZ7NUJL._AC_UF1000,1000_QL80_.jpg",
+            "synopsis": "KIZUMONOGATARI: Wound Tale sigue a Koyomi Araragi, quien se convierte en vampiro tras salvar a una chica. En busca de una cura, explora un mundo sobrenatural lleno de peligros y secretos. La novela explora su lucha por la normalidad mientras enfrenta su nueva realidad y los desafíos que surgen.",
+            "year": 2015,
+            "ISBN": "978-1941220979",
+            "author": {
+                "name": "Nisio Isin",
+                "otherBooks": [
+                    "Bakemonogatari",
+                    "Nisemonogatari"
+                ]
+            }
+        }
+    },
+    {
+        "book": {
+            "title": "Attack on Titan Vol. 1",
+            "pages": 203,
+            "genre": "Novela ligera y manga",
+            "cover": "https://m.media-amazon.com/images/I/51QWSFImgvL.jpg",
+            "synopsis": "En un mundo acosado por los Titanes, criaturas que devoran humanos, la humanidad se resguarda en murallas. Eren, Mikasa y Armin sueñan con descubrir el mundo exterior. Cuando los Titanes atacan, Eren lidera la lucha, desvelando oscuros secretos y desafíos mientras exploran temas de supervivencia y misterio.",
+            "year": 2013,
+            "ISBN": "978-1612620244",
+            "author": {
+                "name": "Hajime Isayama",
+                "otherBooks": []
+            }
+        }
+    },
+    {
+        "book": {
+            "title": "Don Quijote de la Mancha",
+            "pages": 1560,
+            "genre": "Novela",
+            "cover": "https://m.media-amazon.com/images/I/61dW1mWe01L._AC_UF1000,1000_QL80_.jpg",
+            "synopsis": "Don Quijote de la Mancha sigue a un hidalgo enloquecido, Don Quijote, y su escudero Sancho Panza en sus aventuras por la justicia y la gloria. La novela explora el contraste entre idealismo y realidad, ofreciendo una sátira sobre la sociedad y la naturaleza humana mientras cuestiona las nociones de caballería y cordura.",
+            "year": 1605,
+            "ISBN": "978-1981804726",
+            "author": {
+                "name": "Miguel de Cervantes",
+                "otherBooks": [
+                    "Novelas ejemplares",
+                    "La Galatea"
+                ]
+            }
+        }
+    },
+    {
+        "book": {
+          "title": "Los juegos del hambre",
+          "pages": 374,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/51h3YpAz6rL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Katniss Everdeen se involucra en los mortales 'Juegos del Hambre' para proteger a su hermana en un mundo distópico.",
+          "year": 2008,
+          "ISBN": "978-8427202122",
+          "author": {
+            "name": "Suzanne Collins",
+            "otherBooks": ["En llamas", "Sinsajo"]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Cien años de soledad",
+          "pages": 470,
+          "genre": "Novela",
+          "cover": "https://m.media-amazon.com/images/I/912FquexkAL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "La familia Buendía enfrenta desafíos y conflictos a lo largo de varias generaciones en un realismo mágico que abarca cien años.",
+          "year": 1967,
+          "ISBN": "978-0307474728",
+          "author": {
+            "name": "Gabriel García Márquez",
+            "otherBooks": ["Crónica de una muerte anunciada", "El otoño del patriarca"]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Uzumaki",
+          "pages": 648,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/81CeGGwz+BL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "En Uzumaki, una ciudad es atormentada por una maldición de espirales que induce locura y terror. Kirie y Shuichi luchan por entender y escapar de esta influencia mortal mientras horrores inimaginables se desatan. La obsesión por las espirales lleva a la ciudad al borde de la destrucción, desencadenando una lucha desesperada por la supervivencia y la revelación de oscuros secretos.",
+          "year": 2013,
+          "ISBN": "978-1421561325",
+          "author": {
+            "name": "Junji Ito",
+            "otherBooks": ["No Longer Human", "Tomie"]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Un mundo feliz",
+          "pages": 90,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/51q+8GL0z+L.jpg",
+          "synopsis": "En una sociedad utópica, Aldous Huxley cuestiona la conformidad, la tecnología y la pérdida de la individualidad humana.",
+          "year": 1932,
+          "ISBN": "978-6074536782",
+          "author": {
+            "name": "Aldous Huxley",
+            "otherBooks": ["Las puertas de la percepción", "La isla"]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Cell",
+          "pages": 448,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/91Ln7NMQOqS._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Un artista gráfico lucha por sobrevivir tras un pulso eléctrico que convierte a la gente en asesinos al usar sus celulares. Con un grupo diverso, busca a su familia en un mundo caótico y aterrador, explorando los efectos de la tecnología en la sociedad.",
+          "year": 2006,
+          "ISBN": "978-8483465219",
+          "author": {
+            "name": "Stephen King",
+            "otherBooks": ["El resplandor", "Carrie"]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "It",
+          "pages": 1504,
+          "genre": "Terror",
+          "cover": "https://m.media-amazon.com/images/I/71BwqlcZyVL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Amigos luchan contra un ser que encarna sus peores temores en Derry. Reaparece cada 27 años, alternando entre su infancia en los 50 y su reencuentro en los 80 para explorar la amistad y la confrontación con traumas pasados.",
+          "year": 2003,
+          "ISBN": "978-8497593793",
+          "author": {
+            "name": "Stephen King",
+            "otherBooks": ["El resplandor", "Cell"]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Berserk Vol. 1",
+          "pages": 224,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/91D07epNE9L._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Berserk sigue a Guts, un guerrero maldito en busca de venganza. En un mundo oscuro y violento, Guts enfrenta desafíos sobrenaturales mientras lucha por su supervivencia y redención.",
+          "year": 2003,
+          "ISBN": "978-1593070205",
+          "author": {
+            "name": "Kentaro Miura",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Crítica de la razón pura",
+          "pages": 768 ,
+          "genre": "Filosofía",
+          "cover": "https://m.media-amazon.com/images/I/71THx1AITaL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Immanuel Kant cuestiona los límites del conocimiento humano, explorando cómo la mente construye conceptos a partir de experiencias. Aborda el papel del espacio, tiempo y causalidad en la percepción del mundo, estableciendo fundamentos para la filosofía crítica y la comprensión humana.",
+          "year": 1781,
+          "ISBN": "978-8430607099",
+          "author": {
+            "name": "Immanuel Kant",
+            "otherBooks": [
+                "Respuesta a la pregunta: ¿Qué es Ilustración?",
+                "Fundamentación de la metafísica de las costumbres"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "One-Punch Man",
+          "pages": 200,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/81VAgJoB3BL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Saitama es un héroe demasiado poderoso que derrota a sus enemigos con un solo golpe, lo que lo deja aburrido. La serie explora su infelicidad y búsqueda de desafíos en un mundo lleno de humor absurdo, personajes interesantes y combates épicos.",
+          "year": 2015,
+          "ISBN": "978-1421585642",
+          "author": {
+            "name": "Yusuke Murata",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Fullmetal Alchemist Vol. 1",
+          "pages": 192,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/61GWN9NPJvL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Los hermanos Edward y Alphonse Elric buscan la Piedra Filosofal después de un intento fallido de alquimia para recuperar sus cuerpos. En un mundo de magia y tecnología, enfrentan desafíos éticos y enemigos mientras exploran los límites de la alquimia.",
+          "year": 2005,
+          "ISBN": "978-1591169208",
+          "author": {
+            "name": "Hiromu Arakawa",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Viaje al centro de la Tierra",
+          "pages": 576,
+          "genre": "Novela",
+          "cover": "https://m.media-amazon.com/images/I/91zIwQ1iI1L._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Un profesor y su sobrino exploran un mundo subterráneo lleno de maravillas y peligros a medida que buscan regresar a la superficie.",
+          "year": 1864,
+          "ISBN": "978-8467050660",
+          "author": {
+            "name": "Julio Verne",
+            "otherBooks": [
+              "La vuelta al mundo en ochenta días",
+              "Veinte mil leguas de viaje submarino"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "La vuelta al mundo en ochenta días",
+          "pages": 400,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/91ggY7PgpML._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "La vuelta al mundo en ochenta días sigue a Phileas Fogg en su desafío por circunnavegar el globo en 80 días, enfrentando obstáculos y aventuras en su búsqueda de cumplir la apuesta.",
+          "year": 1872,
+          "ISBN": "978-8408204954",
+          "author": {
+            "name": "Julio Verne",
+            "otherBooks": [
+              "Viaje al centro de la Tierra",
+              "Veinte mil leguas de viaje submarino"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Así es la puta vida",
+          "pages": 208,
+          "genre": "Filosofía",
+          "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665260729i/62911786.jpg",
+          "synopsis": "Este libro revela la cruda realidad de la vida, donde la lucha diaria define la búsqueda de disfrute y realización. A pesar de los golpes inevitables, la narrativa subraya la importancia de persistir y seguir adelante en esta fascinante batalla.",
+          "year": 2023,
+          "ISBN": "978-8417809904",
+          "author": {
+            "name": "Jordi Wild",
+            "otherBooks": [
+              "Sueños de Acero y Neon"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Luna de Plutón",
+          "pages": 472,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/71jkadiR0IL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Un grupo de jóvenes explora la luna de Plutón, encontrando sucesos extraños y criaturas inexploradas que desafían su cordura. Ciencia ficción y horror se entrelazan en una trama intrigante y sorprendente.",
+          "year": 2015,
+          "ISBN": "978-6070731747",
+          "author": {
+            "name": "Dross Rotzank",
+            "otherBooks": [
+              "La guerra de Ysaak: Luna de Plutón II",
+              "El libro negro"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "La guerra de Ysaak: Luna de Plutón II",
+          "pages": 844,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/81hJ85A2SSL.jpg",
+          "synopsis": "Los personajes se enfrentan a fuerzas oscuras y secretos ancestrales en una batalla épica en la luna de Plutón, fusionando ciencia ficción y horror en una secuela emocionante.",
+          "year": 2017,
+          "ISBN": "978-9584257215",
+          "author": {
+            "name": "Dross Rotzank",
+            "otherBooks": [
+              "Luna de Plutón",
+              "El libro negro"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Veinte mil leguas de viaje submarino",
+          "pages": 176,
+          "genre": "Ciencia ficción",
+          "cover": "https://m.media-amazon.com/images/I/81G7mFMOveL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "El profesor Aronnax y su equipo exploran el océano a bordo del Nautilus del Capitán Nemo, enfrentando peligros y maravillas submarinas, en una historia que mezcla aventura y reflexión.",
+          "year": 1869,
+          "ISBN": "978-8492683444",
+          "author": {
+            "name": "Julio Verne",
+            "otherBooks": [
+              "La vuelta al mundo en ochenta días",
+              "Viaje al centro de la Tierra"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "El león, la bruja y el armario",
+          "pages": 240,
+          "genre": "Novela",
+          "cover": "https://m.media-amazon.com/images/I/81mSMwtCE7L.jpg",
+          "synopsis": "Cuatro hermanos descubren Narnia, un mundo mágico bajo el hechizo invernal de la Bruja Blanca. Con la guía del león Aslan, luchan por vencer el mal y restaurar la primavera. Una historia de amistad y valentía en un reino de fantasía.",
+          "year": 1950,
+          "ISBN": "978-8408057031",
+          "author": {
+            "name": "C. S. Lewis",
+            "otherBooks": [
+              "El príncipe Caspian",
+              "La travesía del Viajero del Alba"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "El libro negro",
+          "pages": 232,
+          "genre": "Terror",
+          "cover": "https://m.media-amazon.com/images/I/916224mkqDL.jpg",
+          "synopsis": "Recopilación de relatos de terror y misterio, que exploran lo macabro y lo sobrenatural. Cada historia lleva a los lectores por senderos inquietantes, desde lo paranormal hasta lo perturbador, con giros sorprendentes y oscuros. Dross teje una colección intrigante que cautiva con su atmósfera tenebrosa y narrativas impactantes.",
+          "year": 2019,
+          "ISBN": "978-6070762628",
+          "author": {
+            "name": "Dross Rotzank",
+            "otherBooks": [
+              "Luna de Plutón",
+              "La guerra de Ysaak: Luna de Plutón II"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Las aventuras de Alicia en el país de las maravillas",
+          "pages": 128,
+          "genre": "Fantasía",
+          "cover": "https://m.media-amazon.com/images/I/71HA5knNfYL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Alicia cae en un mundo fantástico donde se encuentra con personajes extravagantes y situaciones absurdas en un viaje lleno de paradojas y sorpresas.",
+          "year": 1865,
+          "ISBN": "978-8415618713",
+          "author": {
+            "name": "Lewis Carroll",
+            "otherBooks": [
+              "A través del espejo y lo que Alicia encontró allí",
+              "La caza del Snark"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Ready player one",
+          "pages": 384,
+          "genre": "Novela",
+          "cover": "https://m.media-amazon.com/images/I/9193hRad9yL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "La humanidad se refugia en un mundo virtual llamado OASIS. Tras la muerte de su creador, se desata una caza del tesoro en el juego para encontrar su fortuna, lo que lleva al joven Wade Watts a una emocionante búsqueda llena de desafíos tanto en el mundo virtual como en el real.",
+          "year": 2011,
+          "ISBN": "978-0307887443",
+          "author": {
+            "name": "Ernest Cline",
+            "otherBooks": [
+              "Ready player two",
+              "Armada"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Diana: Her True Story--in Her Own Words",
+          "pages": 448,
+          "genre": "Biografía",
+          "cover": "https://m.media-amazon.com/images/I/61+PwN-IlIL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "La princesa Diana comparte abiertamente su vida, incluyendo su infancia, su matrimonio con el príncipe Carlos y sus desafíos personales. Este libro ofrece una mirada íntima a su vida real y emociones, proporcionando una perspectiva única sobre una figura icónica del siglo XX.",
+          "year": 2017,
+          "ISBN": "978-1501169731",
+          "author": {
+            "name": "Andrew Morton",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Einstein: Su vida y su universo",
+          "pages": 736,
+          "genre": "Biografía",
+          "cover": "https://m.media-amazon.com/images/I/81vyk3hem6S._SL1500_.jpg",
+          "synopsis": "La vida y el pensamiento del genio Albert Einstein, desde su infancia hasta su teoría de la relatividad. Explora su vida personal, sus desafíos y su impacto en la ciencia, brindando una visión profunda del hombre detrás de las teorías que revolucionaron nuestra comprensión del universo.",
+          "year": 2007,
+          "ISBN": "978-8418056635",
+          "author": {
+            "name": "Walter Isaacson",
+            "otherBooks": [
+              "Elon Musk", 
+              "Steve Jobs"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Clean code",
+          "pages": 464,
+          "genre": "Religion",
+          "cover": "https://m.media-amazon.com/images/I/61RRViAYqdL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "La biblia para desarrolladores.",
+          "year": 2008,
+          "ISBN": "978-8441532106",
+          "author": {
+            "name": "Robert Cecil Martin",
+            "otherBooks": [
+              "Clean architecture", 
+              "The Clean Coder"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Prometeo americano",
+          "pages": 864,
+          "genre": "Biografía",
+          "cover": "https://m.media-amazon.com/images/I/81wbNnjkSrL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "La biografía definitiva de Oppenheimer, el padre de la bomba atómica y una de las figuras más emblemáticas del siglo XX.",
+          "year": 2005,
+          "ISBN": "978-8418967986",
+          "author": {
+            "name": "Kai Bird, Martin J. Sherwin",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "La santa biblia",
+          "pages": 2560,
+          "genre": "Religion",
+          "cover": "https://m.media-amazon.com/images/I/61GR1BdMvgL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Las sagradas escrituras del cristianismo.",
+          "year": 1998,
+          "ISBN": "978-8428512756",
+          "author": {
+            "name": "Apostoles",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Demon Slayer: Kimetsu no Yaiba, Vol. 1",
+          "pages": 192,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/81ZNkhqRvVL._SL1500_.jpg",
+          "synopsis": "Un joven llamado Tanjiro Kamado se convierte en un cazador de demonios para vengar a su familia y curar a su hermana Nezuko, convertida en demonio. A lo largo de su viaje, lucha contra demonios poderosos y se une a otros cazadores con habilidades únicas, mientras explora el mundo sobrenatural de los demonios.",
+          "year": 2018,
+          "ISBN": "978-1974700523",
+          "author": {
+            "name": "Koyoharu Gotouge",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Elon Musk",
+          "pages": 736,
+          "genre": "Biografía",
+          "cover": "https://m.media-amazon.com/images/I/81fYiMk1D0L._SL1500_.jpg",
+          "synopsis": "La biografia de Elon Musk, el multibillonario del momento.",
+          "year": 2023,
+          "ISBN": "978-8419399304",
+          "author": {
+            "name": "Walter Isaacson",
+            "otherBooks": [
+              "Steve Jobs",
+              "Leonardo da Vinci: La biografía"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "El corazón de las enseñanzas de Buda",
+          "pages": 400,
+          "genre": "Religion",
+          "cover": "https://m.media-amazon.com/images/I/A12nVNC6DNL._SL1500_.jpg",
+          "synopsis": "Presenta las enseñanzas esenciales del budismo. A través de relatos y parábolas, el autor, Thich Nhat Hanh, explora temas como la compasión, la impermanencia y la iluminación. Ofrece una guía accesible para aquellos que buscan comprender y aplicar la sabiduría budista en su vida cotidiana.",
+          "year": 2018,
+          "ISBN": "978-8408180968",
+          "author": {
+            "name": "Thich Nhat Hanh",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Death Note, Vol. 1",
+          "pages": 200,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/81EJydt5sQL._SL1500_.jpg",
+          "synopsis": "Light Yagami, un estudiante que obtiene un cuaderno letal que mata a quien se escriba en él. Light lo usa para eliminar criminales y se enfrenta al detective L en un juego mortal de ingenio y poder, explorando temas de moralidad y justicia.",
+          "year": 2005,
+          "ISBN": "978-1421501680",
+          "author": {
+            "name": "Takeshi Obata",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "The Melancholy of Haruhi Suzumiya, Series. 1",
+          "pages": 232,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/71zE5lNSjbL._SL1500_.jpg",
+          "synopsis": "La novela sigue a Kyon, un estudiante de preparatoria en Japon que vive una vida monotona y aburrida jactandose de ello hasta que conoce a una chica llamada Haruhi Suzumiya, quien es diametralmente opuesta a él y lo arrastrara a una serie de eventos fuera de lo normal tocando temas como lo paranormal, relaciones interpersonales, lucha de poderes en las sombras, traiciones, monotonia, sentido de la vida, entre otros.",
+          "year": 2003,
+          "ISBN": "978-1975322830",
+          "author": {
+            "name": "Nagaru Tanigawa",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Welcome to the N.H.K., Vol. 1",
+          "pages": 192,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/81WAYhV33yL._SL1500_.jpg",
+          "synopsis": "Tatsuhiro Satou, un joven hikikomori con problemas de aislamiento y paranoia social. Cuando conoce a Misaki, una chica que quiere ayudarlo a reintegrarse a la sociedad, comienza una historia que explora temas de aislamiento, adicciones, la búsqueda de la redención personal en medio de sus luchas internas, el suicidio, la adultez, el mundo laboral y la depresión.",
+          "year": 2004,
+          "ISBN": "978-19755423228830",
+          "author": {
+            "name": "Tatsuhiko Takimoto",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Shakugan No Shana, Vol 1",
+          "pages": 208,
+          "genre": "Novela ligera y manga",
+          "cover": "https://m.media-amazon.com/images/I/71l0XBrOixL._SL1024_.jpg",
+          "synopsis": "La obra sigue a una misteriosa chica de cabello negro llamada Shana, cuyo único objetivo en la vida es luchar contra unos misteriosos monstruos que drenan el alma de las personas. Esto lo logra con un poder que torna su cabello de color carmesí y una katana milenaria. En su trayecto, conocerá a diferentes personajes que se convertirán en sus amigos e iran cambiando poco a poco su proposito en la vida.",
+          "year": 2007,
+          "ISBN": "978-1421511955",
+          "author": {
+            "name": "Yashichiro Takahashi",
+            "otherBooks": []
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "Divina comedia",
+          "pages": 304,
+          "genre": "Fantasía",
+          "cover": "https://m.media-amazon.com/images/I/71WJbXGxPdL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Narra el viaje de Dante a través del Infierno, el Purgatorio y el Paraíso, guiado por Virgilio y Beatriz. A medida que recorre estos reinos, Dante explora temas religiosos y morales, reflexionando sobre el pecado, la redención y la búsqueda de la divinidad.",
+          "year": 1472,
+          "ISBN": "978-1518711374",
+          "author": {
+            "name": "Dante Alighieri",
+            "otherBooks": [
+              "Infierno",
+              "Purgatorio"
+            ]
+          }
+        }
+      },
+      {
+        "book": {
+          "title": "El principito",
+          "pages": 96,
+          "genre": "Fantasía",
+          "cover": "https://m.media-amazon.com/images/I/81E-RNGwAIL._AC_UF1000,1000_QL80_.jpg",
+          "synopsis": "Narra el encuentro de un piloto estrellado en el desierto con un pequeño príncipe proveniente de otro planeta. A medida que el príncipe relata sus experiencias, se exploran temas como la amistad, la soledad y la importancia de ver el mundo a través de los ojos de un niño, ofreciendo lecciones de vida conmovedoras.",
+          "year": 1943,
+          "ISBN": "978-8498381498",
+          "author": {
+            "name": "Antoine de Saint-Exupéry",
+            "otherBooks": [
+              "Tierra de hombres",
+              "Vuelo nocturno"
+            ]
+          }
+        }
+      }
+]}

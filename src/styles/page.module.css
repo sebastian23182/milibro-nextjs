@@ -1,0 +1,33 @@
+.background {
+    background-image: url("../images/bg.webp") !important;
+    position: fixed;
+    background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    filter: brightness(0.4) blur(0px);
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+}
+
+.header {
+    cursor: default;
+    display: flex;
+}
+
+.header a {
+    cursor: default;
+    text-decoration: none;
+}
+
+.header a h2 {
+    padding: 0;
+    margin: 0 0 0 10px;
+    color: white;
+    font-size: 2rem;
+    width: fit-content;
+}
+
+.header a h2:hover {
+    cursor: pointer;
+}
